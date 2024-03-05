@@ -2345,7 +2345,7 @@ F# karakter veri tipi desteği için .NET'in sağladığı imkanları kullanır.
 
 >**İPUCU**
 >
-> Karakterlerin unicode ifadeleri ve UTF-8, UTF-16 ve UTF-32 gibi kodlama yöntemleri kitabın kapsamı dışında olduğu için bu konudaki ayrıntılara girmiyoruz. Ancak, isterseniz unicode karakter kodlarını https://unicode-table.com adresinden inceleyebilirsiniz.
+> Karakterlerin unicode ifadeleri ve UTF-8, UTF-16 ve UTF-32 gibi kodlama yöntemleri kitabın kapsamı dışında olduğu için bu konudaki ayrıntılara girmiyoruz. Ancak, isterseniz unicode karakter kodlarını https://symbl.cc adresinden inceleyebilirsiniz.
 
 ```fsharp
 (* 03_2_05.fsx *)
